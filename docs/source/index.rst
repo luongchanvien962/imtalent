@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+IMTalent - imtalent.vn - Đào tạo Digital Marketing Online
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`IMTalent <https://imtalent.vn/>`_ đào tạo nguồn nhân lực thực chiến cho doanh nghiệp kinh doanh online ngay từ những bước đi đầu tiên trên con đường kinh doanh. Tầm nhìn IMTalent sẽ trở thành trung tâm đào tạo kỹ DIGITAL MARKETING ONLINE hàng đầu lĩnh vực tại Việt nam.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Đội ngũ IM Talent luôn sẵn sàng đồng hành, hỗ trợ khách hàng, doanh nghiệp một cách tận tâm, nhiệt huyết nhất.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Email: imtalent.infor@gmail.com 
 
-Contents
---------
+Website: https://imtalent.vn/
 
-.. toctree::
+Hotline: (028) 1800 1089
 
-   usage
-   api
+Địa chỉ: Nguyễn Đình Chiểu, Phường 6, Quận 3, HCM.
+
+#imtalent #imtalentvietnam #daotaomarketing #marketingonline #digitalmarketing 
